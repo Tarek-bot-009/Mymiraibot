@@ -1,0 +1,7 @@
+{
+  "PREFIX": "/",
+  "BOTNAME": "Baby",
+  "ADMINBOT": [],
+  "GEMINI_API_KEY": "",
+  "APPSTATE": "appstate.json"
+}
